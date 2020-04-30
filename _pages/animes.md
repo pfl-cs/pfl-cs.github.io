@@ -36,6 +36,11 @@ My Favorite
 <img style="float: left;width:48px;height:27px;" src="/images/animes/titan.jpg"> 
 &nbsp;&nbsp;Attack on Titan Series \(进击的巨人\)
 
+<a href="https://v.youku.com/v_show/id_XMTY5ODQ1MTAxMg==.html?spm=a2h0c.8166622.PhoneSokuProgram_1.dposter">
+<img style="float: left;width:48px;height:27px;" src="/images/animes/galactic_heroes.jpg"> 
+</a>
+&nbsp;&nbsp;Legend of the Galactic Heroes \(银河英雄传说\)
+
 Piece of Shit
 ======
 
