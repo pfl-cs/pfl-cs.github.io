@@ -99,21 +99,39 @@ Masterpieces
 Good Games
 =====
 
-God of War, 2018 \(4.5/5\)
+<a href="https://www.metacritic.com/game/playstation-4/grand-theft-auto-v">
+<img style="float: left;width:48px;height:27px;" src="/images/games/god_of_war.jpg"> 
+</a>
+&nbsp;&nbsp;God of War, 2018 \(4.5/5\)
 
-Uncharted 4: A Thief's End, 2016 \(4.5/5\)
+<a href="https://www.metacritic.com/game/playstation-4/grand-theft-auto-v">
+<img style="float: left;width:48px;height:27px;" src="/images/games/uncharted4.jpg"> 
+</a>
+&nbsp;&nbsp;Uncharted 4: A Thief's End, 2016 \(4.5/5\)
 
-Ace Attorney Trilogy, 2019 \(4.5/5\)
+<a href="https://www.metacritic.com/game/playstation-4/grand-theft-auto-v">
+<img style="float: left;width:48px;height:27px;" src="/images/games/ace_att.jpg"> 
+</a>
+&nbsp;&nbsp;Ace Attorney Trilogy, 2019 \(4.5/5\)
 
-NieR:Automata, 2017 \(4.5/5\)
+<a href="https://www.metacritic.com/game/playstation-4/grand-theft-auto-v">
+<img style="float: left;width:48px;height:27px;" src="/images/games/nier.jpg"> 
+</a>
+&nbsp;&nbsp;NieR:Automata, 2017 \(4.5/5\)
 
-White Album 2, 2010 \(4.5/5\)
+<a href="https://www.metacritic.com/game/playstation-4/grand-theft-auto-v">
+<img style="float: left;width:48px;height:27px;" src="/images/games/whitealbum2.jpg"> 
+</a>
+&nbsp;&nbsp;White Album 2, 2010 \(4.5/5\)
 
 
 Mediocre Games
 ======
 
-Red Dead Redemption 2, 2018 \(3.5/5\)
+<a href="https://www.metacritic.com/game/playstation-4/grand-theft-auto-v">
+<img style="float: left;width:48px;height:27px;" src="/images/games/redded2.jpg"> 
+</a>
+&nbsp;&nbsp;Red Dead Redemption 2, 2018 \(3.5/5\)
 
 Piece of Shit
 =====
