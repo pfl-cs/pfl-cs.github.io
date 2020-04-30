@@ -13,29 +13,35 @@ redirect_from:
 My Best 10
 ======
 
-<img style="float: left;width:48px;height:27px;" src="/images/ocarina.jpg"> 
+<img style="float: left;width:48px;height:27px;" src="/images/zelda_oot.jpg"> 
 &nbsp;&nbsp;The Legend of Zelda: Ocarina of Time, 1998/2011 \(10/5\)
 
-<img style="float: left;width:48px;height:27px;" src="/images/botw.jpg"> 
+<img style="float: left;width:48px;height:27px;" src="/images/zelda_botw.jpg"> 
 &nbsp;&nbsp;The Legend of Zelda: Breath of the Wild, 2017 \(10/5\)
 
-<img style="float: left;width:48px;height:27px;" src="/images/skywardsword.jpg"> 
+<img style="float: left;width:48px;height:27px;" src="/images/zelda_ss.jpg"> 
 &nbsp;&nbsp;The Legend of Zelda: Skyward Sword, 2011 \(8/5\)
 
-<img style="float: left;width:48px;height:27px;" src="/images/oracle_ages.jpg"> 
+<img style="float: left;width:48px;height:27px;" src="/images/zelda_ages.jpg"> 
 &nbsp;&nbsp;The Legend of Zelda: Oracle of Ages, 2001 \(8/5\)
 
-The Legend of Zelda: Twilight Princess, 2006/2016 \(6/5\)
+<img style="float: left;width:48px;height:27px;" src="/images/zelda_tp.jpg"> 
+&nbsp;&nbsp;The Legend of Zelda: Twilight Princess, 2006/2016 \(6/5\)
 
-Super Mario: Odyssy, 2017 \(6/5\)
+<img style="float: left;width:48px;height:27px;" src="/images/mario_odyssey.jpg"> 
+&nbsp;&nbsp;Super Mario: Odyssy, 2017 \(6/5\)
 
-Super Smash Bros. Ultimate, 2018 \(6/5\)
+<img style="float: left;width:48px;height:27px;" src="/images/smash.jpg"> 
+&nbsp;&nbsp;Super Smash Bros. Ultimate, 2018 \(6/5\)
 
-The Last of Us, 2013 \(5/5\)
+<img style="float: left;width:48px;height:27px;" src="/images/tlou.jpg"> 
+&nbsp;&nbsp;The Last of Us, 2013 \(5/5\)
 
-The Witcher 3: Wild Hunter, 2015 \(5/5)
+<img style="float: left;width:48px;height:27px;" src="/images/wither3.jpg"> 
+&nbsp;&nbsp;The Witcher 3: Wild Hunter, 2015 \(5/5)
 
-Grand Theft Auto V, 2013, \(5/5\)
+<img style="float: left;width:48px;height:27px;" src="/images/gta5.jpg"> 
+&nbsp;&nbsp;Grand Theft Auto V, 2013, \(5/5\)
 
 
 Masterpieces
@@ -59,6 +65,7 @@ God of War, 2018 \(4.5/5\)
 
 Uncharted 4: A Thief's End, 2016 \(4.5/5\)
 
+Ace Attorney Trilogy, 2019 \(4.5/5\)
 
 Piece of Shit
 =====
