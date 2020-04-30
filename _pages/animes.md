@@ -72,4 +72,4 @@ Piece of Shit
 ======
 
 <img style="float: left;width:48px;height:27px;" src="/images/animes/shit.jpg"> 
-&nbsp;&nbsp;My Hero Academia \(我的英雄学院\)
+&nbsp;&nbsp;My Hero Academia \(我的英雄学院，一坨屎\)
