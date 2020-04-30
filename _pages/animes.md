@@ -28,5 +28,10 @@ My Favorite
 </a>
 &nbsp;&nbsp;Monthly Girls' Nozaki-kun \(月刊少女野崎君\)
 
+<a href="https://www.bilibili.com/bangumi/media/md28223479">
+<img style="float: left;width:48px;height:27px;" src="/images/animes/jojo.jpg"> 
+</a>
+&nbsp;&nbsp;JOJO Series \(JOJO的奇妙冒险\)
+
 <img style="float: left;width:48px;height:27px;" src="/images/animes/titan.jpg"> 
 &nbsp;&nbsp;Attack on Titan Series \(进击的巨人\)
