@@ -46,6 +46,21 @@ My Favorite
 </a>
 &nbsp;&nbsp;Legend of the Galactic Heroes \(银河英雄传说\)
 
+<a href="https://www.bilibili.com/bangumi/media/md2425">
+<img style="float: left;width:48px;height:27px;" src="/images/animes/touch.jpg"> 
+</a>
+&nbsp;&nbsp;Touch \(棒球英豪\)
+
+<a href="https://www.bilibili.com/video/BV1DW411C7xi">
+<img style="float: left;width:48px;height:27px;" src="/images/animes/cross_game.jpg"> 
+</a>
+&nbsp;&nbsp;Cross Game \(幸运四叶草\)
+
+<a href="https://www.bilibili.com/bangumi/media/md1539">
+<img style="float: left;width:48px;height:27px;" src="/images/animes/yahari.jpg"> 
+</a>
+&nbsp;&nbsp;My Youth Romantic Comedy Is Wrong, As I Expected \(我的青春恋爱物语果然有问题\)
+
 ...etc
 
 Piece of Shit
