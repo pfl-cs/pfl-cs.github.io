@@ -124,6 +124,11 @@ Good Games
 </a>
 &nbsp;&nbsp;NieR:Automata, 2017 \(4/5\)
 
+<a href="https://www.metacritic.com/game/switch/xenoblade-chronicles-2">
+<img style="float: left;width:48px;height:27px;" src="/images/games/xenoblade.jpg"> 
+</a>
+&nbsp;&nbsp;NieR:Automata, 2017 \(4.5/5\)
+
 <img style="float: left;width:48px;height:27px;" src="/images/games/whitealbum2.jpg"> 
 &nbsp;&nbsp;White Album 2, 2010 \(4.5/5\)
 
