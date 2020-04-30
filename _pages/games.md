@@ -96,6 +96,11 @@ Masterpieces
 </a>
 &nbsp;&nbsp;Ghost Trick: Phantom Detective, 2010 \(5/5\)
 
+<a href="https://www.metacritic.com/game/switch/celeste">
+<img style="float: left;width:48px;height:27px;" src="/images/games/celeste.jpg"> 
+</a>
+&nbsp;&nbsp;Celeste, 2018 \(5/5\)
+
 Good Games
 =====
 
