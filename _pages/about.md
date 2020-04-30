@@ -14,6 +14,6 @@ I am currently a PhD student in the College of Computer Science and Technology, 
 
 News!!
 =====
-* \[2020/04\] I am playing "Animal Crossing" now.
+* \[2020/04\] I am playing "Animal Crossing: New Horizons" now.
 
-* \[2020/04\] I cleared "Zelda: Oracle of Ages" and am going to play "Zelda: Oracle of seasons". 
+* \[2020/03\] I cleared "Zelda: Oracle of Ages" and am going to play "Zelda: Oracle of seasons". 
