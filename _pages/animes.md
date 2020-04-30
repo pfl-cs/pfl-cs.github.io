@@ -18,10 +18,15 @@ My Favorite
 </a>
 &nbsp;&nbsp;K-On! Series \(轻音少女\)
 
-<img style="float: left;width:48px;height:27px;" src="/images/animes/titan.jpg"> 
-&nbsp;&nbsp;Attack on Titan Series \(进击的巨人\)
-
 <a href="https://www.bilibili.com/bangumi/media/md102312">
 <img style="float: left;width:48px;height:27px;" src="/images/animes/grandblue.jpg"> 
 </a>
 &nbsp;&nbsp;Grand Blue \(碧蓝之海\)
+
+<a href="https://www.bilibili.com/bangumi/media/md53">
+<img style="float: left;width:48px;height:27px;" src="/images/animes/nozaki.jpg"> 
+</a>
+&nbsp;&nbsp;Monthly Girls' Nozaki-kun \(月刊少女野崎君\)
+
+<img style="float: left;width:48px;height:27px;" src="/images/animes/titan.jpg"> 
+&nbsp;&nbsp;Attack on Titan Series \(进击的巨人\)
