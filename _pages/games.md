@@ -13,34 +13,34 @@ redirect_from:
 My Best 10
 ======
 
-<img style="float: left;width:48px;height:27px;" src="/images/zelda_oot.jpg"> 
+<img style="float: left;width:48px;height:27px;" src="/images/games/zelda_oot.jpg"> 
 &nbsp;&nbsp;The Legend of Zelda: Ocarina of Time, 1998/2011 \(10/5\)
 
-<img style="float: left;width:48px;height:27px;" src="/images/zelda_botw.jpg"> 
+<img style="float: left;width:48px;height:27px;" src="/images/games/zelda_botw.jpg"> 
 &nbsp;&nbsp;The Legend of Zelda: Breath of the Wild, 2017 \(10/5\)
 
-<img style="float: left;width:48px;height:27px;" src="/images/zelda_ss.jpg"> 
+<img style="float: left;width:48px;height:27px;" src="/images/games/zelda_ss.jpg"> 
 &nbsp;&nbsp;The Legend of Zelda: Skyward Sword, 2011 \(8/5\)
 
-<img style="float: left;width:48px;height:27px;" src="/images/zelda_ages.jpg"> 
+<img style="float: left;width:48px;height:27px;" src="/images/games/zelda_ages.jpg"> 
 &nbsp;&nbsp;The Legend of Zelda: Oracle of Ages, 2001 \(8/5\)
 
-<img style="float: left;width:48px;height:27px;" src="/images/zelda_tp.jpg"> 
+<img style="float: left;width:48px;height:27px;" src="/images/games/zelda_tp.jpg"> 
 &nbsp;&nbsp;The Legend of Zelda: Twilight Princess, 2006/2016 \(6/5\)
 
-<img style="float: left;width:48px;height:27px;" src="/images/mario_odyssey.jpg"> 
+<img style="float: left;width:48px;height:27px;" src="/images/games/mario_odyssey.jpg"> 
 &nbsp;&nbsp;Super Mario: Odyssy, 2017 \(6/5\)
 
-<img style="float: left;width:48px;height:27px;" src="/images/smash.jpg"> 
+<img style="float: left;width:48px;height:27px;" src="/images/games/smash.jpg"> 
 &nbsp;&nbsp;Super Smash Bros. Ultimate, 2018 \(6/5\)
 
-<img style="float: left;width:48px;height:27px;" src="/images/tlou.jpg"> 
+<img style="float: left;width:48px;height:27px;" src="/images/games/tlou.jpg"> 
 &nbsp;&nbsp;The Last of Us, 2013 \(5/5\)
 
-<img style="float: left;width:48px;height:27px;" src="/images/wither3.jpg"> 
+<img style="float: left;width:48px;height:27px;" src="/images/games/wither3.jpg"> 
 &nbsp;&nbsp;The Witcher 3: Wild Hunter, 2015 \(5/5)
 
-<img style="float: left;width:48px;height:27px;" src="/images/gta5.jpg"> 
+<img style="float: left;width:48px;height:27px;" src="/images/games/gta5.jpg"> 
 &nbsp;&nbsp;Grand Theft Auto V, 2013, \(5/5\)
 
 
