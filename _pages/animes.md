@@ -28,6 +28,11 @@ My Favorite
 </a>
 &nbsp;&nbsp;Monthly Girls' Nozaki-kun \(月刊少女野崎君\)
 
+<a href="https://www.bilibili.com/bangumi/media/md1635">
+<img style="float: left;width:48px;height:27px;" src="/images/animes/eva.jpg"> 
+</a>
+&nbsp;&nbsp;Neon Genesis Evangelion \(新世纪福音战士)
+
 <a href="https://www.bilibili.com/bangumi/media/md28223479">
 <img style="float: left;width:48px;height:27px;" src="/images/animes/jojo.jpg"> 
 </a>
