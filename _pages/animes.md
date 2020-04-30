@@ -35,3 +35,9 @@ My Favorite
 
 <img style="float: left;width:48px;height:27px;" src="/images/animes/titan.jpg"> 
 &nbsp;&nbsp;Attack on Titan Series \(进击的巨人\)
+
+Piece of Shit
+======
+
+<img style="float: left;width:48px;height:27px;" src="/images/animes/shit.jpg"> 
+&nbsp;&nbsp;My Hero Academia \(我的英雄学院\)
