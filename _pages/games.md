@@ -13,8 +13,8 @@ redirect_from:
 My Best 10
 ======
 
-<img style="float: left;width:40px;height:30px;" src="/images/ocarina.jpg">
- - The Legend of Zelda: Ocarina of Time, 1998/2011 \(10/5\)
+<img style="float: left;width:40px;height:30px;" src="/images/ocarina.jpg"> <br />
+ * The Legend of Zelda: Ocarina of Time, 1998/2011 \(10/5\)
 
 The Legend of Zelda: Breath of the Wild, 2017 \(10/5\)
 
@@ -37,8 +37,13 @@ Grand Theft Auto V, 2013, \(5/5\)
 Masterpieces
 =====
 
+The Legend of Zelda: A Link to the Past, 1991 \(5/5\)
 
+The Legend of Zelda: Mojora's Mask, 2000/2015 \(5/5\)
 
+The Legend of Zelda: The Wind Waker, 2002/2013 \(5/5\)
+
+The Legend of Zelda: A Link Between Worlds, 2013 \(5/5\)
 
 
 
