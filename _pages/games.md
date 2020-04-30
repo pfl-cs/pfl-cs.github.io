@@ -57,6 +57,7 @@ The Legend of Zelda: A Link Between Worlds, 2013 \(5/5\)
 
 Animal Crossing: New Horizons, 2020 \(5/5\)
 
+Ghost Trick, 2010 \(5/5\)
 
 Good Games
 =====
