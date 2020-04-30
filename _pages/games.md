@@ -13,7 +13,7 @@ redirect_from:
 My Best 10
 ======
 
-<img style="float: left;width:40px;height:30px;" src="/images/ocarina.jpg"> 
+<img style="float: left;width:48px;height:27px;" src="/images/ocarina.jpg"> 
 &nbsp;&nbsp;The Legend of Zelda: Ocarina of Time, 1998/2011 \(10/5\)
 
 <img style="float: left;width:48px;height:27px;" src="/images/botw.jpg"> 
@@ -61,3 +61,4 @@ Uncharted 4: A Thief's End, 2016 \(4.5/5\)
 Piece of Shit
 =====
 
+The Last of Us Part II, 2020 \(1/5\)
