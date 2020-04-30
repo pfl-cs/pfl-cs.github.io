@@ -71,6 +71,11 @@ My Favorite
 </a>
 &nbsp;&nbsp;Honey and Clover \(蜂蜜与四叶草\)
 
+<a href="https://www.bilibili.com/bangumi/media/md1177">
+<img style="float: left;width:48px;height:27px;" src="/images/animes/clannad.jpg"> 
+</a>
+&nbsp;&nbsp;Clannad
+
 ...etc
 
 Piece of Shit
