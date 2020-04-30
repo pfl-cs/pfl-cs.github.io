@@ -22,7 +22,8 @@ My Best 10
 <img style="float: left;width:48px;height:27px;" src="/images/skywardsword.jpg"> 
 &nbsp;&nbsp;The Legend of Zelda: Skyward Sword, 2011 \(8/5\)
 
-The Legend of Zelda: Oracle of Ages, 2001 \(8/5\)
+<img style="float: left;width:48px;height:27px;" src="/images/oracle_ages.jpg"> 
+&nbsp;&nbsp;The Legend of Zelda: Oracle of Ages, 2001 \(8/5\)
 
 The Legend of Zelda: Twilight Princess, 2006/2016 \(6/5\)
 
