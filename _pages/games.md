@@ -14,7 +14,7 @@ My Best 10
 ======
 
 <img style="float: left;width:40px;height:30px;" src="/images/ocarina.jpg">
-The Legend of Zelda: Ocarina of Time, 1998/2011 \(10/5\)
+ - The Legend of Zelda: Ocarina of Time, 1998/2011 \(10/5\)
 
 The Legend of Zelda: Breath of the Wild, 2017 \(10/5\)
 
@@ -31,6 +31,8 @@ Super Smash Bros. Ultimate, 2018 \(6/5\)
 The Last of Us, 2013 \(5/5\)
 
 The Witcher 3: Wild Hunter, 2015 \(5/5)
+
+Grand Theft Auto V, 2013, \(5/5\)
 
 Masterpieces
 =====
