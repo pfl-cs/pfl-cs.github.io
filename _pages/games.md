@@ -81,4 +81,5 @@ Red Dead Redemption 2, 2018 \(3.5/5\)
 Piece of Shit
 =====
 
-The Last of Us Part II, 2020 \(1/5\)
+<img style="float: left;width:48px;height:27px;" src="/images/games/tlou2.jpg"> 
+&nbsp;&nbsp;The Last of Us Part II, 2020 \(1/5\)
