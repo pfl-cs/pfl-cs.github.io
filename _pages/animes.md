@@ -41,6 +41,8 @@ My Favorite
 </a>
 &nbsp;&nbsp;Legend of the Galactic Heroes \(银河英雄传说\)
 
+...etc
+
 Piece of Shit
 ======
 

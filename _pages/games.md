@@ -133,8 +133,6 @@ Good Games
 &nbsp;&nbsp;White Album 2, 2010 \(4.5/5\)
 
 
-...etc
-
 Mediocre Games
 ======
 
