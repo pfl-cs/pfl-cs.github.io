@@ -19,7 +19,8 @@ My Best 10
 <img style="float: left;width:48px;height:27px;" src="/images/botw.jpg"> 
 &nbsp;&nbsp;The Legend of Zelda: Breath of the Wild, 2017 \(10/5\)
 
-The Legend of Zelda: Skyward Sword, 2011 \(8/5\)
+<img style="float: left;width:48px;height:27px;" src="/images/skywardsword.jpg"> 
+&nbsp;&nbsp;The Legend of Zelda: Skyward Sword, 2011 \(8/5\)
 
 The Legend of Zelda: Oracle of Ages, 2001 \(8/5\)
 
