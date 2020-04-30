@@ -76,6 +76,9 @@ My Favorite
 </a>
 &nbsp;&nbsp;Clannad
 
+<img style="float: left;width:48px;height:27px;" src="/images/animes/cicada.jpg"> 
+&nbsp;&nbsp;When They Cry \(寒蝉鸣泣之时\)
+
 ...etc
 
 Piece of Shit
