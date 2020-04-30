@@ -66,77 +66,75 @@ My Best 10
 Masterpieces
 =====
 
-<a href="https://www.metacritic.com/game/playstation-4/grand-theft-auto-v">
+<a href="https://www.metacritic.com/game/game-boy-advance/the-legend-of-zelda-a-link-to-the-past">
 <img style="float: left;width:48px;height:27px;" src="/images/games/zelda_alttp.jpg"> 
 </a>
 &nbsp;&nbsp;The Legend of Zelda: A Link to the Past, 1991 \(5/5\)
 
-<a href="https://www.metacritic.com/game/playstation-4/grand-theft-auto-v">
+<a href="https://www.metacritic.com/game/nintendo-64/the-legend-of-zelda-majoras-mask">
 <img style="float: left;width:48px;height:27px;" src="/images/games/zelda_mm.jpg"> 
 </a>
 &nbsp;&nbsp;The Legend of Zelda: Mojora's Mask, 2000/2015 \(5/5\)
 
-<a href="https://www.metacritic.com/game/playstation-4/grand-theft-auto-v">
+<a href="https://www.metacritic.com/game/gamecube/the-legend-of-zelda-the-wind-waker">
 <img style="float: left;width:48px;height:27px;" src="/images/games/zelda_ww.jpg"> 
 </a>
 &nbsp;&nbsp;The Legend of Zelda: The Wind Waker, 2002/2013 \(5/5\)
 
-<a href="https://www.metacritic.com/game/playstation-4/grand-theft-auto-v">
+<a href="https://www.metacritic.com/game/3ds/the-legend-of-zelda-a-link-between-worlds">
 <img style="float: left;width:48px;height:27px;" src="/images/games/zelda_albw.jpg"> 
 </a>
 &nbsp;&nbsp;The Legend of Zelda: A Link Between Worlds, 2013 \(5/5\)
 
-<a href="https://www.metacritic.com/game/playstation-4/grand-theft-auto-v">
+<a href="https://www.metacritic.com/game/switch/animal-crossing-new-horizons">
 <img style="float: left;width:48px;height:27px;" src="/images/games/animal-crossing.jpg"> 
 </a>
 &nbsp;&nbsp;Animal Crossing: New Horizons, 2020 \(5/5\)
 
-<a href="https://www.metacritic.com/game/playstation-4/grand-theft-auto-v">
+<a href="https://www.metacritic.com/game/ds/ghost-trick-phantom-detective">
 <img style="float: left;width:48px;height:27px;" src="/images/games/ghost-trick.jpg"> 
 </a>
-&nbsp;&nbsp;Ghost Trick, 2010 \(5/5\)
+&nbsp;&nbsp;Ghost Trick: Phantom Detective, 2010 \(5/5\)
 
 Good Games
 =====
 
-<a href="https://www.metacritic.com/game/playstation-4/grand-theft-auto-v">
+<a href="https://www.metacritic.com/game/playstation-4/god-of-war">
 <img style="float: left;width:48px;height:27px;" src="/images/games/god_of_war.jpg"> 
 </a>
 &nbsp;&nbsp;God of War, 2018 \(4.5/5\)
 
-<a href="https://www.metacritic.com/game/playstation-4/grand-theft-auto-v">
+<a href="https://www.metacritic.com/game/playstation-4/uncharted-4-a-thiefs-end">
 <img style="float: left;width:48px;height:27px;" src="/images/games/uncharted4.jpg"> 
 </a>
 &nbsp;&nbsp;Uncharted 4: A Thief's End, 2016 \(4.5/5\)
 
-<a href="https://www.metacritic.com/game/playstation-4/grand-theft-auto-v">
+<a href="https://www.metacritic.com/game/switch/phoenix-wright-ace-attorney-trilogy">
 <img style="float: left;width:48px;height:27px;" src="/images/games/ace_att.jpg"> 
 </a>
 &nbsp;&nbsp;Ace Attorney Trilogy, 2019 \(4.5/5\)
 
-<a href="https://www.metacritic.com/game/playstation-4/grand-theft-auto-v">
+<a href="https://www.metacritic.com/game/playstation-4/nier-automata">
 <img style="float: left;width:48px;height:27px;" src="/images/games/nier.jpg"> 
 </a>
-&nbsp;&nbsp;NieR:Automata, 2017 \(4.5/5\)
+&nbsp;&nbsp;NieR:Automata, 2017 \(4/5\)
 
-<a href="https://www.metacritic.com/game/playstation-4/grand-theft-auto-v">
 <img style="float: left;width:48px;height:27px;" src="/images/games/whitealbum2.jpg"> 
-</a>
 &nbsp;&nbsp;White Album 2, 2010 \(4.5/5\)
 
 
 Mediocre Games
 ======
 
-<a href="https://www.metacritic.com/game/playstation-4/grand-theft-auto-v">
-<img style="float: left;width:48px;height:27px;" src="/images/games/redded2.jpg"> 
+<a href="https://www.metacritic.com/game/playstation-4/red-dead-redemption-2">
+<img style="float: left;width:48px;height:27px;" src="/images/games/reddead2.jpg"> 
 </a>
 &nbsp;&nbsp;Red Dead Redemption 2, 2018 \(3.5/5\)
 
 Piece of Shit
 =====
 
-<a href="https://www.metacritic.com/game/nintendo-64/the-legend-of-zelda-ocarina-of-time">
+<a href="https://www.metacritic.com/game/playstation-4/the-last-of-us-part-ii">
 <img style="float: left;width:48px;height:27px;" src="/images/games/tlou2.jpg"> 
 </a>
 &nbsp;&nbsp;The Last of Us Part II, 2020 \(1/5\)
