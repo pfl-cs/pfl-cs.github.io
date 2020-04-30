@@ -24,7 +24,7 @@ Conference papers
 **Finding Influential Local Users with Similar Interest from Geo-Tagged Social Media Data** <br>
 Jinling Jiang, Hua Lu, **Pengfei Li**, Gang Pan, Xike Xie <br>
 *IEEE International Conference on Mobile Data Management* (MDM)
-, June 2017 \[[paper](https://ieeexplore.ieee.org/abstract/document/7962439\]
+, June 2017 \[[paper](https://ieeexplore.ieee.org/abstract/document/7962439)\]
 
 Journal/Magazine papers
 =====
