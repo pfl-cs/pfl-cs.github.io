@@ -16,7 +16,8 @@ My Best 10
 <img style="float: left;width:40px;height:30px;" src="/images/ocarina.jpg"> 
 &nbsp;&nbsp;The Legend of Zelda: Ocarina of Time, 1998/2011 \(10/5\)
 
-The Legend of Zelda: Breath of the Wild, 2017 \(10/5\)
+<img style="float: left;width:40px;height:30px;" src="/images/ocarina.jpg"> 
+&nbsp;&nbsp;The Legend of Zelda: Breath of the Wild, 2017 \(10/5\)
 
 The Legend of Zelda: Skyward Sword, 2011 \(8/5\)
 
