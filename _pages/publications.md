@@ -21,6 +21,10 @@ Conference papers
 **Pengfei Li**, Hua Lu, Qian Zheng, Long Yang, Gang Pan <br>
 *International World Wide Web Conferences (WWW)*, May 2019 \[[paper](https://dl.acm.org/citation.cfm?id=3313473)\]
 
+**Finding Influential Local Users with Similar Interest from Geo-Tagged Social Media Data** <br>
+Jinling Jiang, Hua Lu, **Pengfei Li**, Gang Pan, Xike Xie <br>
+*IEEE International Conference on Mobile Data Management* (MDM)
+, June 2017 \[[paper](https://ieeexplore.ieee.org/abstract/document/7962439\]
 
 Journal/Magazine papers
 =====
@@ -28,6 +32,13 @@ Journal/Magazine papers
 **Pengfei Li**, Hua Lu, Qian Zheng, Gang Pan <br>
 *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2019 \[[paper](https://ieeexplore.ieee.org/document/8798877)\]
 
+**Location Inference for Non-geotagged Tweets in User Timelines.** <br>
+**Pengfei Li**, Hua Lu, Nattiya Kanhabua, Sha Zhao, Gang Pan <br>
+*IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2018 \[[paper](https://ieeexplore.ieee.org/abstract/document/8403245/\]
+
+**Qualitative Measurements of Policy Discrepancy for Return-based Deep Q-Network** <br>
+Wenjia Meng, Qian Zheng, Long Yang, **Pengfei Li**, Gang Pan <br>
+*IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2019 \[[paper](https://ieeexplore.ieee.org/abstract/document/8910593\]
 
 
 
