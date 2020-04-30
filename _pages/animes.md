@@ -66,6 +66,11 @@ My Favorite
 </a>
 &nbsp;&nbsp;My Youth Romantic Comedy Is Wrong, As I Expected \(我的青春恋爱物语果然有问题\)
 
+<a href="https://www.bilibili.com/bangumi/media/md3317">
+<img style="float: left;width:48px;height:27px;" src="/images/animes/honey_clover.jpg"> 
+</a>
+&nbsp;&nbsp;Honey and Clover \(蜂蜜与四叶草\)
+
 ...etc
 
 Piece of Shit
