@@ -46,7 +46,7 @@ My Favorite
 </a>
 &nbsp;&nbsp;Legend of the Galactic Heroes \(银河英雄传说\)
 
-<a href="https://www.bilibili.com/bangumi/media/md2425">
+<a href="https://www.iqiyi.com/lib/m_200067914.html">
 <img style="float: left;width:48px;height:27px;" src="/images/animes/one_piece.jpg"> 
 </a>
 &nbsp;&nbsp;One Piece \(海贼王\)
