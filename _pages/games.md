@@ -18,6 +18,12 @@ The Legend of Zelda: Ocarina of Time, 1998/2011 \(10/5\)
 
 The Legend of Zelda: Breath of the Wild, 2017 \(10/5\)
 
+The Legend of Zelda: Skyward Sword, 2011 \(8/5\)
+
+The Legend of Zelda: Oracle of Ages, 2001 \(8/5\)
+
+The Legend of Zelda: Twilight Princess, 2006/2016 \(6/5\)
+
 Masterpieces
 =====
 
