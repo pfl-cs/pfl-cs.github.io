@@ -70,7 +70,11 @@ Ace Attorney Trilogy, 2019 \(4.5/5\)
 
 NieR:Automata, 2017 \(4.5/5\)
 
+White Album 2, 2010 \(4.5/5\)
+
+
 Mediocre Games
+======
 
 Red Dead Redemption 2, 2018 \(3.5/5\)
 
