@@ -79,6 +79,9 @@ My Favorite
 <img style="float: left;width:48px;height:27px;" src="/images/animes/cicada.jpg"> 
 &nbsp;&nbsp;When They Cry \(寒蝉鸣泣之时\)
 
+<img style="float: left;width:48px;height:27px;" src="/images/animes/death-note.jpg"> 
+&nbsp;&nbsp;Death Note \(死亡笔记\)
+
 ...etc
 
 Piece of Shit
