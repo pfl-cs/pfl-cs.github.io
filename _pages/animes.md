@@ -21,3 +21,7 @@ My Favorite
 <img style="float: left;width:48px;height:27px;" src="/images/animes/titan.jpg"> 
 &nbsp;&nbsp;Attack on Titan Series \(进击的巨人\)
 
+<a href="https://www.bilibili.com/bangumi/media/md102312">
+<img style="float: left;width:48px;height:27px;" src="/images/animes/grandblue.jpg"> 
+</a>
+&nbsp;&nbsp;Grand Blue \(碧蓝之海\)
