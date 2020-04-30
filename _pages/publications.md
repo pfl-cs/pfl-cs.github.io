@@ -34,11 +34,11 @@ Journal/Magazine papers
 
 **Location Inference for Non-geotagged Tweets in User Timelines.** <br>
 **Pengfei Li**, Hua Lu, Nattiya Kanhabua, Sha Zhao, Gang Pan <br>
-*IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2018 \[[paper](https://ieeexplore.ieee.org/abstract/document/8403245/\]
+*IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2018 \[[paper](https://ieeexplore.ieee.org/abstract/document/8403245)\]
 
 **Qualitative Measurements of Policy Discrepancy for Return-based Deep Q-Network** <br>
 Wenjia Meng, Qian Zheng, Long Yang, **Pengfei Li**, Gang Pan <br>
-*IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2019 \[[paper](https://ieeexplore.ieee.org/abstract/document/8910593\]
+*IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2019 \[[paper](https://ieeexplore.ieee.org/abstract/document/8910593)\]
 
 
 
