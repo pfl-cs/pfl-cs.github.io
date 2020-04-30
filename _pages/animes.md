@@ -47,6 +47,11 @@ My Favorite
 &nbsp;&nbsp;Legend of the Galactic Heroes \(银河英雄传说\)
 
 <a href="https://www.bilibili.com/bangumi/media/md2425">
+<img style="float: left;width:48px;height:27px;" src="/images/animes/one_piece.jpg"> 
+</a>
+&nbsp;&nbsp;One Piece \(海贼王\)
+
+<a href="https://www.bilibili.com/bangumi/media/md2425">
 <img style="float: left;width:48px;height:27px;" src="/images/animes/touch.jpg"> 
 </a>
 &nbsp;&nbsp;Touch \(棒球英豪\)
