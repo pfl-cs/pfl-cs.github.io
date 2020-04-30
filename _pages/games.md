@@ -16,7 +16,7 @@ My Best 10
 <img style="float: left;width:40px;height:30px;" src="/images/ocarina.jpg"> 
 &nbsp;&nbsp;The Legend of Zelda: Ocarina of Time, 1998/2011 \(10/5\)
 
-<img style="float: left;" src="/images/botw.jpg"> 
+<img style="float: left;width:48px;height:27px;" src="/images/botw.jpg"> 
 &nbsp;&nbsp;The Legend of Zelda: Breath of the Wild, 2017 \(10/5\)
 
 The Legend of Zelda: Skyward Sword, 2011 \(8/5\)
@@ -57,4 +57,7 @@ God of War, 2018 \(4.5/5\)
 
 Uncharted 4: A Thief's End, 2016 \(4.5/5\)
 
+
+Piece of Shit
+=====
 
