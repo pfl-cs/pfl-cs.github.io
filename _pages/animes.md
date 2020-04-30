@@ -28,6 +28,11 @@ My Favorite
 </a>
 &nbsp;&nbsp;Monthly Girls' Nozaki-kun \(月刊少女野崎君\)
 
+<a href="https://www.bilibili.com/video/BV1Us411X7pH">
+<img style="float: left;width:48px;height:27px;" src="/images/animes/cowboy.jpg"> 
+</a>
+&nbsp;&nbsp;Cowboy Bebop \(星际牛仔\)
+
 <a href="https://www.bilibili.com/bangumi/media/md1635">
 <img style="float: left;width:48px;height:27px;" src="/images/animes/eva.jpg"> 
 </a>
