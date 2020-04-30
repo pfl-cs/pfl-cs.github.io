@@ -18,5 +18,6 @@ My Favorite
 </a>
 &nbsp;&nbsp;K-On! Series \(轻音少女\)
 
-Attack on Titan Series \(进击的巨人\)
+<img style="float: left;width:48px;height:27px;" src="/images/animes/titan.jpg"> 
+&nbsp;&nbsp;Attack on Titan Series \(进击的巨人\)
 
