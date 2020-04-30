@@ -68,6 +68,12 @@ Uncharted 4: A Thief's End, 2016 \(4.5/5\)
 
 Ace Attorney Trilogy, 2019 \(4.5/5\)
 
+NieR:Automata, 2017 \(4.5/5\)
+
+Mediocre Games
+
+Red Dead Redemption 2, 2018 \(3.5/5\)
+
 Piece of Shit
 =====
 
