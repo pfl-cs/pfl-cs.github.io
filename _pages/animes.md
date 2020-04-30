@@ -88,7 +88,7 @@ My Favorite
 &nbsp;&nbsp;Death Note \(死亡笔记\)
 
 <img style="float: left;width:48px;height:27px;" src="/images/animes/steins.jpg"> 
-&nbsp;&nbsp;Steins;Gate \(命运石之门\)
+&nbsp;&nbsp;Steins;Gate Series \(命运石之门\)
 
 ...etc
 

@@ -101,6 +101,11 @@ Masterpieces
 </a>
 &nbsp;&nbsp;Celeste \(蔚蓝\), 2018 \(5/5\)
 
+<a href="https://www.metacritic.com/game/pc/ever17-out-of-infinity">
+<img style="float: left;width:48px;height:27px;" src="/images/games/ever17.jpg"> 
+</a>
+&nbsp;&nbsp;Ever17: Out of Infinity \(时空轮回\), 2005 \(5/5\)
+
 Good Games
 =====
 
