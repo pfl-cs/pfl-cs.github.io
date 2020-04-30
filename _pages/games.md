@@ -13,7 +13,7 @@ redirect_from:
 My Best 10
 ======
 
-<img style="float: left;" src="images/ocarina.jpg">
+<img style="float: left;" src="ocarina.jpg">
 The Legend of Zelda: Ocarina of Time
 
 Masterpieces
