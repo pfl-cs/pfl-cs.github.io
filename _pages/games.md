@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: ""
-permalink: /publications/
+permalink: /games/
 author_profile: true
 redirect_from:
-  - /publications
+  - /games
 ---
 
 {% include base_path %}
