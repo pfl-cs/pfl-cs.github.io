@@ -16,4 +16,4 @@ News!!
 =====
 * \[2020/04\] I am playing "Animal Crossing: New Horizons \(猛男捡树枝\)" now.
 
-* \[2020/03\] I cleared "Zelda: Oracle of Ages \& Seasons" and am going to play "Zelda: The Minish Cap". 
+* \[2020/03\] I cleared "Zelda: Oracle of Ages & Seasons" and am going to play "Zelda: The Minish Cap". 
