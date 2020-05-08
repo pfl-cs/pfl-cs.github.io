@@ -76,6 +76,11 @@ Masterpieces
 </a>
 &nbsp;&nbsp;The Legend of Zelda: Mojora's Mask \(梅祖拉的假面\), 2000/2015 \(5/5\)
 
+<a href="https://www.ign.com/games/the-legend-of-zelda-oracle-of-seasons">
+<img style="float: left;width:48px;height:27px;" src="/images/games/zelda_seasons.jpg"> 
+</a>
+&nbsp;&nbsp;The Legend of Zelda: Oracle of Seasons \(不可思议的果实: 大地之章\), 2001 \(5/5\)
+
 <a href="https://www.metacritic.com/game/gamecube/the-legend-of-zelda-the-wind-waker">
 <img style="float: left;width:48px;height:27px;" src="/images/games/zelda_ww.jpg"> 
 </a>
