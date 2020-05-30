@@ -81,6 +81,11 @@ Masterpieces
 </a>
 &nbsp;&nbsp;The Legend of Zelda: Oracle of Seasons \(不可思议的果实: 大地之章\), 2001 \(5/5\)
 
+<a href="https://www.metacritic.com/game/game-boy-advance/the-legend-of-zelda-the-minish-cap">
+<img style="float: left;width:48px;height:27px;" src="/images/games/zelda_mcap.jpg"> 
+</a>
+&nbsp;&nbsp;The Legend of Zelda: The Minish Cap \(缩小帽\), 2001 \(5/5\)
+
 <a href="https://www.metacritic.com/game/gamecube/the-legend-of-zelda-the-wind-waker">
 <img style="float: left;width:48px;height:27px;" src="/images/games/zelda_ww.jpg"> 
 </a>
