@@ -129,6 +129,11 @@ Good Games
 </a>
 &nbsp;&nbsp;Uncharted 4: A Thief's End \(神秘海域4: 盗贼末路\), 2016 \(4.5/5\)
 
+<a href="https://www.metacritic.com/game/playstation-3/uncharted-2-among-thieves">
+<img style="float: left;width:48px;height:27px;" src="/images/games/uncharted2.jpg"> 
+</a>
+&nbsp;&nbsp;Uncharted 2: Among Thieves \(神秘海域2: 纵横四海\), 2009 \(4.5/5\)
+
 <a href="https://www.metacritic.com/game/switch/phoenix-wright-ace-attorney-trilogy">
 <img style="float: left;width:48px;height:27px;" src="/images/games/ace_att.jpg"> 
 </a>
