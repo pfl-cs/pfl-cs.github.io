@@ -13,6 +13,10 @@ redirect_from:
 Conference papers
 ======
 
+**DILI: A Distribution-Driven Learned Index** <br>
+**Pengfei Li**, Hua Lu, Rong Zhu, Bolin Ding, Long Yang and Gang Pan <br>
+*Proceedings of the VLDB Endowment (VLDB)*, August 2023 
+
 **LISA: A Learned Index Structure for Spatial Data** <br>
 **Pengfei Li**, Hua Lu, Qian Zheng, Long Yang, Gang Pan <br>
 *ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD)*, June 2020 \[[paper](https://1drv.ms/b/s!AqqMkGs8p4aNgiWyofT0WDSXkdD6?e=i3uUyv)\]
