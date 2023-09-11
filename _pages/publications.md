@@ -25,6 +25,18 @@ Conference papers
 **Pengfei Li**, Hua Lu, Qian Zheng, Long Yang, Gang Pan <br>
 *International World Wide Web Conferences (WWW)*, May 2019 \[[paper](https://dl.acm.org/citation.cfm?id=3313473)\]
 
+**Constrained Update Projection Approach to Safe Policy Optimization.** <br>
+Long Yang, Jiaming Ji, Juntao Dai, Linrui Zhang, Binbin Zhou, **Pengfei Li**, Yaodong Yang, Gang Pan <br>
+*Conference on Neural Information Processing Systems (NeurIPS)*, Nov 2022 \[[paper](https://proceedings.neurips.cc//paper_files/paper/2022/hash/3ba7560b4c3e66d760fbdd472cf4a5a9-Abstract-Conference.html)\]
+
+**Policy Optimization with Stochastic Mirror Descent.** <br>
+Long Yang, Yu Zhang, Gang Zheng, Qian Zheng, **Pengfei Li**, Jianhang Huang, Gang Pan <br>
+*AAAI Conference on Artificial Intelligence (AAAI)*, Feb 2022 \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20863)\]
+
+**On Convergence of Gradient Expected Sarsa(λ).** <br>
+Long Yang, Gang Zheng, Yu Zhang, Qian Zheng, **Pengfei Li**, Gang Pan <br>
+*AAAI Conference on Artificial Intelligence (AAAI)*, Feb 2021 \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17270)\]
+
 **Finding Influential Local Users with Similar Interest from Geo-Tagged Social Media Data** <br>
 Jinling Jiang, Hua Lu, **Pengfei Li**, Gang Pan, Xike Xie <br>
 *IEEE International Conference on Mobile Data Management* (MDM)
