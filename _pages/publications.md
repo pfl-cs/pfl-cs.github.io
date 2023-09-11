@@ -15,7 +15,7 @@ Conference papers
 
 **DILI: A Distribution-Driven Learned Index** <br>
 **Pengfei Li**, Hua Lu, Rong Zhu, Bolin Ding, Long Yang and Gang Pan <br>
-*Proceedings of the VLDB Endowment (VLDB)*, August 2023 
+*Proceedings of the VLDB Endowment (VLDB)*, August 2023 \[[paper](https://www.vldb.org/pvldb/vol16/p2212-li.pdf)\]
 
 **LISA: A Learned Index Structure for Spatial Data** <br>
 **Pengfei Li**, Hua Lu, Qian Zheng, Long Yang, Gang Pan <br>
