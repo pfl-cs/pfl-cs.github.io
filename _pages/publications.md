@@ -15,7 +15,7 @@ Conference papers
 
 **ALECE: An Attention-based Learned Cardinality Estimator for SPJ Queries on Dynamic Workloads** <br>
 **Pengfei Li**, Wenqing Wei, Rong Zhu, Bolin Ding, Jingren Zhou and Hua Lu <br>
-*Proceedings of the VLDB Endowment (VLDB)*, August 2024 \[[paper](doi:10.14778/3626292.3626302)\]
+*Proceedings of the VLDB Endowment (VLDB)*, August 2024 \[[paper](https://doi.org/10.14778/3626292.3626302)\]
 
 **DILI: A Distribution-Driven Learned Index** <br>
 **Pengfei Li**, Hua Lu, Rong Zhu, Bolin Ding, Long Yang and Gang Pan <br>
