@@ -48,6 +48,10 @@ Jinling Jiang, Hua Lu, **Pengfei Li**, Gang Pan, Xike Xie <br>
 
 Journal/Magazine papers
 =====
+**GRELA: Exploiting Graph Representation Learning in Effective Approximate Query Processing** <br>
+**Pengfei Li**, Yong Zhang, Wenqing Wei, Rong Zhu, Bolin Ding, Jingren Zhou, Shuxian Hu, Hua Lu <br>
+*The VLDB Journal*, 2025
+
 **HisRect: Features from Historical Visits and Recent Tweet for Co-Location Judgement** <br>
 **Pengfei Li**, Hua Lu, Qian Zheng, Gang Pan <br>
 *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2019 \[[paper](https://ieeexplore.ieee.org/document/8798877)\]
